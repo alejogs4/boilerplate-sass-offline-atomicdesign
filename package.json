@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "edboilerplate",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Boilerplate usado en EDteam para sitios web estaticos",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "gatsby": "^2.8.6",
-    "gatsby-plugin-google-analytics": "^2.0.21",
     "gatsby-plugin-manifest": "^2.1.1",
     "gatsby-plugin-offline": "^2.1.1",
     "gatsby-plugin-react-helmet": "^3.0.12",
