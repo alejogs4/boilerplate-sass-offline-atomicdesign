@@ -7,8 +7,7 @@ Es una sencilla estructura para un proyecto web estático basado en [Gatsby](htt
 * Compila Sass 
 * Tiene una estructura lista de estilos (con Sass) basada en SMACSS y ITCSS
 * Tiene una estructura de componentes en React basada en atomic design
-* Tiene una configuración lista para que el sitio sea una progressive web application(pwa)
-* Funciona de forma offline
+* Tiene una configuración lista para que el sitio sea una progressive web application, para que sea instalable en dispositivos moviles y trabaje offline (Solo funciona despues de hacer el build)
 
 ## Modo de uso
 Para usar el boilerplate es necesario tener instalado [node.js](https://nodejs.org/en/download/)
